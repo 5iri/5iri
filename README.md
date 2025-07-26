@@ -11,3 +11,6 @@
 I build things.
 
 Currently working on understanding computer architecture and neuromorphic computing for energy efficient "AI".
+
+
+[5iri.me](https://5iri.me)
