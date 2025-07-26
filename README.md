@@ -10,4 +10,4 @@
 ## नमस्ते!
 I build things.
 
-Currently working on understanding computer architecture and neuromorphic computing for energy effiecient "AI".
+Currently working on understanding computer architecture and neuromorphic computing for energy efficient "AI".
