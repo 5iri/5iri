@@ -8,10 +8,13 @@
 <section class="sv-section" markdown="1">
 
 ## नमस्ते!
-I build things.
+I build systems that think fast and waste less.
 
-Currently working on understanding computer architecture and neuromorphic computing for energy efficient "AI".
+Currently exploring computer architecture and neuromorphic design. 
+
+finding better ways to make computation both *high-performance* and *energy-efficient.*
 
 [5iri.me](https://5iri.me)
 
 you can find me at [@lazybanananann](https://x.com/lazybanananann)
+</section>
