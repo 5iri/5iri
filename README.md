@@ -1,20 +1,23 @@
-<!-- ——— HERO ——— -->
-<section class="sv-hero">
-  <h1 class="sv-hero__name">Shri Vishakh Devanand</h1>
-  <p class="sv-hero__tag">hardware · math · storytelling</p>
-</section>
+<div align="center">
 
-<!-- ——— ABOUT ——— -->
-<section class="sv-section" markdown="1">
+# Shri Vishakh Devanand
+
+**hardware · math · storytelling**
+
+</div>
+
+---
 
 ## नमस्ते!
-I build systems that think fast and waste less.
 
-Currently exploring computer architecture and neuromorphic design. 
+I design hardware that computes faster while consuming less.
 
-finding better ways to make computation both *high-performance* and *energy-efficient.*
+Right now: rethinking computer architecture through neuromorphic lenses. The goal is simple; make machines that are both intelligent and efficient, not just one or the other.
 
-[5iri.me](https://5iri.me)
+<br>
 
-you can find me at [@lazybanananann](https://x.com/lazybanananann)
-</section>
+<div align="center">
+
+**[5iri.me](https://5iri.me)** · **[@lazybanananann](https://x.com/lazybanananann)**
+
+</div>
