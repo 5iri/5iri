@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shri Vishakh Devanand
+# Shri Vishakh
 
 **hardware · math · storytelling**
 
