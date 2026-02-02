@@ -10,7 +10,7 @@
 
 ## नमस्ते!
 
-I design hardware that computes faster while consuming less.
+I design hardware that computes faster while consuming less energy.
 
 Right now: rethinking computer architecture through neuromorphic lenses. The goal is simple; make machines that are both intelligent and efficient, not just one or the other.
 
