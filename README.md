@@ -1,47 +1,4 @@
-<div align="center">
-
-# Shri Vishakh Devanand
-
-**hardware · systems · math · storytelling**
-
-[website](https://5iri.me) · [github](https://github.com/5iri) · [linkedin](https://linkedin.com/in/shri-vishakh-devanand) · [x](https://x.com/lazybanananann)
-
-</div>
-
-## Namaste
-
-I build compute systems that are fast, practical, and energy-efficient.
-
-My work sits at the intersection of:
-- Neuromorphic acceleration
-- RISC-V CPU design
-- CXL and memory-system tooling
-- Hardware-software co-design
-
-Current focus:
-- CXL emulation and memory-system experiments
-- Open-source CPU work that can be used beyond toy demos
-- Publishing implementation notes as I build
-
-## Selected Work
-
-- [`ProsperityHDL`](https://github.com/5iri/ProsperityHDL)  
-  Product-sparsity accelerator for SNNs (TCAM-based detection, dispatch/prune pipeline, 128-PE compute path).
-- [`SRA-VJTI/synapse32`](https://github.com/SRA-VJTI/synapse32)  
-  In-house 32-bit RISC-V CPU (RV32I + Zicsr + Zifencei) with a classic 5-stage pipeline.
-- [`RISCV-ISA-IN-C`](https://github.com/5iri/RISCV-ISA-IN-C)  
-  Educational RISC-V ISA implementation and emulator in C.
-- [`conway-in-asm`](https://github.com/5iri/conway-in-asm)  
-  Conway's Game of Life in RISC-V assembly.
-- [`ApexCore`](https://github.com/5iri/ApexCore)  
-  Single-core CPU project based on the RISC-V ISA.
-- [`youterm`](https://github.com/5iri/youterm)  
-  Terminal-native audio streaming/search tool for YouTube.
-
-## Writing
-
-- [Tiny TPU in a Week](https://5iri.me/blog/tiny-tpu-week)
-- [Blog index](https://5iri.me/blog)
+about me — [5iri.me](https://5iri.me)
 
 ## GitHub Stats
 
